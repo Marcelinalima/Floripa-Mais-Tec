@@ -1,2 +1,4 @@
 # Floripa-Mais-Tec
-Plano de estudos
+
+##Plano de estudos
+**Primeiras Aulas na plataforma Ava
