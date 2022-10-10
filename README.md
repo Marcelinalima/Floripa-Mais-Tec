@@ -2,4 +2,4 @@
 
 ## Plano de estudos
 
-**Primeiras Aulas na plataforma Ava
+**Primeiras Aulas na plataforma Ava**
