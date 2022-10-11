@@ -5,10 +5,14 @@
 
 ## Plano de estudos
 
-Detalhes do Curso
+**Detalhes do Curso**
+
 **Primeiras Aulas na plataforma Ava**
+
 26-09-2022 -
+
 Intrução ao MundoTECH - Frontend
+
 [Módulo1] HTML.
 
 {Primeiros passos na programação Front-End}
